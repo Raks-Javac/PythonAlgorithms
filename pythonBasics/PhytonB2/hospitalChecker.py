@@ -1,0 +1,2 @@
+patient_name,patient_age,is_aNewPatient = ("John Smith",20,True)
+print(f" There is a patient and his name is  {patient_name} , age : {patient_age} ,and he is also a new patient which is {is_aNewPatient}")
